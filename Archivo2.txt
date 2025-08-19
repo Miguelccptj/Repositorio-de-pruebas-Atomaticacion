@@ -1,4 +1,0 @@
-archivo 2 
-hola texto 
-
-texto mas texto
