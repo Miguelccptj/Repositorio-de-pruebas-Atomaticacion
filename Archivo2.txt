@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 archivo 2
+=======
+archivo 2 
+hola texto
+>>>>>>> Ramaprueba
