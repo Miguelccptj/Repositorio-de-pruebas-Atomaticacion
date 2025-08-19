@@ -1,2 +1,4 @@
 archivo 2 
-hola texto
+hola texto 
+
+texto 
